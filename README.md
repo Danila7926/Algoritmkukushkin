@@ -5,3 +5,7 @@ https://mogu.so/board/1qwv4VX8w1qEBfjNdUXUlZ
 https://freelance.habr.com/freelancers/danila7926
 Сайт 
 file:///C:/Users/user/Desktop/index.html
+пп
+[Договор (1).docx](https://github.com/Danila7926/Algoritmkukushkin/files/13294949/1.docx)
+[Договор 1.docx](https://github.com/Danila7926/Algoritmkukushkin/files/13294957/1.docx)
+[договор 2.docx](https://github.com/Danila7926/Algoritmkukushkin/files/13294963/2.docx)
