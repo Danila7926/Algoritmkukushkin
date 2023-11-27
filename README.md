@@ -11,3 +11,5 @@ file:///C:/Users/user/Desktop/index.html
 [договор 2.docx](https://github.com/Danila7926/Algoritmkukushkin/files/13294963/2.docx)
 лекции по алгоритмизации
 https://docs.google.com/document/d/1e93nXRIl-0JJawxdFrF2YftxEnV5s5bfUAg05aDH2VU/edit?usp=sharing
+replit
+https://replit.com/@k-danilka2001
