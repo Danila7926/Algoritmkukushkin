@@ -13,4 +13,5 @@ file:///C:/Users/user/Desktop/index.html
 https://docs.google.com/document/d/1e93nXRIl-0JJawxdFrF2YftxEnV5s5bfUAg05aDH2VU/edit?usp=sharing
 replit
 https://replit.com/@k-danilka2001
-explorer  https://drive.google.com/drive/folders/1hWp9CcmhgDsLZDr3BUT9lT3jgez-Y8e8?usp=sharing
+explorer https://drive.google.com/drive/folders/1GVfYvu0CRwoyMYl7hjgqd5hu1InjvxX8?usp=sharing
+
