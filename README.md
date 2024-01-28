@@ -14,6 +14,7 @@ https://docs.google.com/document/d/1e93nXRIl-0JJawxdFrF2YftxEnV5s5bfUAg05aDH2VU/
 replit
 https://replit.com/@k-danilka2001
 explorer https://drive.google.com/drive/folders/1GVfYvu0CRwoyMYl7hjgqd5hu1InjvxX8?usp=sharing
-курсовая ![image](https://github.com/Danila7926/Algoritmkukushkin/assets/145664647/1a85df28-06f2-4f73-9cbc-e208d9c7bd8d)
+курсовая ![image](https://github.com/Danila7926/Algoritmkukushkin/assets/145664647/3b38dd5d-96d4-4943-a376-3e41fc6376d9)
+
 
 
