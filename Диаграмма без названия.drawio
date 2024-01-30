@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:19:58.301Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Au5W1u_fq1NrgTzLIK0p" version="23.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:59:30.673Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PC4yFsCxWxk_JlcDmF0Q" version="23.0.2" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1432" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -606,6 +606,38 @@
         </mxCell>
         <mxCell id="05Ipb5w0e5GFynDpGMGn-42" value="CUST_ID+CUST_ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="355" y="710" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZoTLaTdU_OP01LCzbP8D" name="Страница — 7">
+    <mxGraphModel dx="1432" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-1" value="Покупатель" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-3" value="1&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="98" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-4" value="Товар" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-5" value="Микросхемы зарубежные 0...-9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qtuMw0G1ae-G7aRt3ssQ-4">
+          <mxGeometry x="-10" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-6" value="TL 061CP,Микросхема,DIP8-300,STMicrorlectronics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qtuMw0G1ae-G7aRt3ssQ-4">
+          <mxGeometry x="-5" y="40" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-7" value="шт" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qtuMw0G1ae-G7aRt3ssQ-4">
+          <mxGeometry x="-5" y="60" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-8" value="80,00 руб" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qtuMw0G1ae-G7aRt3ssQ-4">
+          <mxGeometry x="-5" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qtuMw0G1ae-G7aRt3ssQ-2" value="99-99-99" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qtuMw0G1ae-G7aRt3ssQ-4">
+          <mxGeometry x="-5" y="100" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
