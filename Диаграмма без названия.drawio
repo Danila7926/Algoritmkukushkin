@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T05:57:13.821Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zhCBLV59Rfv2QsTS0DZ8" version="23.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-30T05:57:47.669Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AJKuuVLhOZ_ukHKw3N-O" version="23.0.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1432" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -499,7 +499,7 @@
         <mxCell id="05Ipb5w0e5GFynDpGMGn-5" value="Товар на складе&lt;br&gt;Количество товара на складе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05Ipb5w0e5GFynDpGMGn-6" value="Запись списка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="05Ipb5w0e5GFynDpGMGn-6" value="Запись списка&lt;br&gt;Количество товара&lt;br&gt;Цена товара" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05Ipb5w0e5GFynDpGMGn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="05Ipb5w0e5GFynDpGMGn-6" target="05Ipb5w0e5GFynDpGMGn-3">
