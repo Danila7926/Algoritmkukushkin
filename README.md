@@ -15,6 +15,7 @@ replit
 https://replit.com/@k-danilka2001
 explorer https://drive.google.com/drive/folders/1GVfYvu0CRwoyMYl7hjgqd5hu1InjvxX8?usp=sharing
 курсовая ![image](https://github.com/Danila7926/Algoritmkukushkin/assets/145664647/3b38dd5d-96d4-4943-a376-3e41fc6376d9)
-
+Яндекс практикум 
+https://docs.google.com/document/d/1nQhT5cy9efbR1hNsj7sCncZ-fipxIQ24z9JZm3sdI2M/edit?usp=drivesdk
 
 
