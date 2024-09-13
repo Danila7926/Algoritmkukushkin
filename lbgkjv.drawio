@@ -70,30 +70,12 @@
         <mxCell id="E2NYxojuZy4zluaw5o4R-21" value="бд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E2NYxojuZy4zluaw5o4R-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="250" as="sourcePoint" />
-            <mxPoint x="70" y="220" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-26" value="при вводе данных пользователем&lt;div&gt;сохраняются и обновляются datebase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="130" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="E2NYxojuZy4zluaw5o4R-23" value="phpmyadmin" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="180" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="E2NYxojuZy4zluaw5o4R-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="E2NYxojuZy4zluaw5o4R-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E2NYxojuZy4zluaw5o4R-21" target="E2NYxojuZy4zluaw5o4R-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="220" as="sourcePoint" />
-            <mxPoint x="200" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E2NYxojuZy4zluaw5o4R-25" value="1.id&lt;div&gt;2.user&lt;/div&gt;&lt;div&gt;3.login&lt;/div&gt;&lt;div&gt;4.password&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="E2NYxojuZy4zluaw5o4R-26" value="при вводе данных пользователем&lt;div&gt;сохраняются и обновляются datebase&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="250" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="E2NYxojuZy4zluaw5o4R-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E2NYxojuZy4zluaw5o4R-25" target="E2NYxojuZy4zluaw5o4R-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="200" as="sourcePoint" />
             <mxPoint x="370" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -138,6 +120,42 @@
         </mxCell>
         <mxCell id="E2NYxojuZy4zluaw5o4R-36" value="создание сайта с конкурсами" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="345" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="E2NYxojuZy4zluaw5o4R-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="220" as="sourcePoint" />
+            <mxPoint x="-130" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-39" value="информация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="180" as="sourcePoint" />
+            <mxPoint x="40" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E2NYxojuZy4zluaw5o4R-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="470" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-42" value="подверждение участия" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E2NYxojuZy4zluaw5o4R-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="510" as="sourcePoint" />
+            <mxPoint x="610" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-44" value="загрузка сертификатов или фотография участия" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E2NYxojuZy4zluaw5o4R-45" value="гугл культура&lt;div&gt;яндекс&lt;/div&gt;&lt;div&gt;аплподкаст&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
